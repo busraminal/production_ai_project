@@ -2,8 +2,6 @@
 ### **Dijital İkiz, Zaman Serisi ve Pekiştirmeli Öğrenme Tabanlı Üretim Optimizasyonu**
 
 
-# Production AI Project (Skeleton)
-
 Bu iskelet proje, iki bağımsız modül için hazırlanmıştır:
 - `zs_time_series/` (Zaman Serisi)
 - `rl_reinforcement/` (Pekiştirmeli Öğrenme)
