@@ -1,0 +1,7 @@
+{
+  "algorithm": "PPO",
+  "avg_reward": 66.45930469075633,
+  "std_reward": 24.403051927522206,
+  "episodes": 30,
+  "timesteps": 50000
+}

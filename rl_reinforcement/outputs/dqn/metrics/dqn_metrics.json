@@ -1,0 +1,7 @@
+{
+  "algorithm": "DQN",
+  "avg_reward": -944.6677467630246,
+  "std_reward": 151.9076017060635,
+  "episodes": 30,
+  "timesteps": 80000
+}

@@ -1,0 +1,4 @@
+scenario,action0_decrease,action1_hold,action2_increase,steps_total
+plain,0.0,0.9999999999861111,0.0,720
+sarima,0.0,0.9999999999861111,0.0,720
+prophet,0.0,0.9999999999861111,0.0,720
