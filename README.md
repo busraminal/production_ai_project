@@ -23,6 +23,9 @@ pip install -r requirements.txt
 
 > Kod modül modül eklenecek.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📐 Sistem Akışı (System Architecture)
+
+![Zaman Serisi ve RL Sistem Akışı](screenshots/system_flow.png)
 
 ## 1. Proje Tanımı ve Amacı
 
